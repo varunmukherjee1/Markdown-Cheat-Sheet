@@ -1,9 +1,9 @@
-# Complete Markdown Cheatsheet
+# Complete Markdown Cheatsheet :sunglasses:
 ---
 
 <!-- Headings -->
 
-# \*Headings
+# \*Headings :eyes:
 
 # Heading 1
 ## Heading 2
@@ -12,7 +12,7 @@
 ##### Heading 5
 ###### Heading 6
 
-# \*Text Styling
+# \*Text Styling :sparkles:
 
 <!-- Italics -->
 
@@ -40,7 +40,7 @@ ___
 > This is a Block Quote
 
 <!-- Links -->
-# \*Links
+# \*Links :link:
 
 [My Github](https://github.com/varunmukherjee1)
 
@@ -48,7 +48,7 @@ ___
 
 
 <!-- Unordered List -->
-# \*Unordered Lists
+# \*Unordered Lists :page_with_curl:
 
 * Item 1
 * Item 2
@@ -57,7 +57,7 @@ ___
   * Nested Item 2
 
 <!-- Ordered Lists -->
-# \*Ordered Lists
+# \*Ordered Lists :page_facing_up:
 
 1. Item 1
 1. Item 2
@@ -71,21 +71,21 @@ ___
          * And Another Nested Item 2
 
 <!-- Inline Code Block -->
-# \*Inline Code block
+# \*Inline Code block :computer:
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
-# \*Images
+# \*Images :city_sunrise:
 
 ![An Image](https://imgix.ranker.com/list_img_v2/1922/3141922/original/3141922)
 
 <!-- Github Markdown -->
 
-# Github Markdown
+# Github Markdown :octocat:
 ---
 
 <!-- Code Blocks -->
-# \*Code Blocks
+# \*Code Blocks :iphone:
 
 Bash :
 ```bash
@@ -115,7 +115,7 @@ int sum(int a,int b){
 ```
 
 <!-- Tables -->
-# \*Tables
+# \*Tables :triangular_ruler:
 
 | Name      | Email           |
 |---------- | -------------   |
@@ -123,7 +123,7 @@ int sum(int a,int b){
 | User 2    | user2@email.com |
 
 <!-- Task List -->
-# \*Task List
+# \*Task List :clipboard:
 
 * [x] Task 1
 * [x] Task 2
